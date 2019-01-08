@@ -1,0 +1,867 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mdgglobal.com" resolutions="1x" timestamp="1545412736000">
+  <folder name="css">
+    <file name="site_global.css" crc="4075354454"/>
+    <file name="master_a-master.css" crc="3928695925" ref="drop:contact:fusion:dec:about:vinyl:testimonials:team:emblems:index:pres:crystaldome:dealer"/>
+    <file name="drop.css" crc="3859919736" ref="drop"/>
+    <file name="contact.css" crc="470710736" ref="contact"/>
+    <file name="fusion.css" crc="71236138" ref="fusion"/>
+    <file name="dec.css" crc="4095897045" ref="dec"/>
+    <file name="about.css" crc="4223951754" ref="about"/>
+    <file name="vinyl.css" crc="67936489" ref="vinyl"/>
+    <file name="testimonials.css" crc="4001670893" ref="testimonials"/>
+    <file name="team.css" crc="4268193546" ref="team"/>
+    <file name="emblems.css" crc="526773156" ref="emblems"/>
+    <file name="index.css" crc="3967379806" ref="index"/>
+    <file name="pres.css" crc="3762283201" ref="pres"/>
+    <file name="crystaldome.css" crc="4185276554" ref="crystaldome"/>
+    <file name="dealer.css" crc="427625802" ref="dealer"/>
+  </folder>
+  <folder name="assets">
+    <file name="mdgproductshowcase.pdf" crc="28251571" seo="true" mt="1528300777000"/>
+    <file name="chevy_022908c.pdf" crc="3853481429" seo="true" mt="1521807850000"/>
+    <file name="chevy_072311a.pdf" crc="368677787" seo="true" mt="1521807900000"/>
+    <file name="chevy_081215a.pdf" crc="154705839" seo="true" mt="1521807958000"/>
+    <file name="chevy_061914e.pdf" crc="473244326" seo="true" mt="1521808100000"/>
+    <file name="gmc_111110a.pdf" crc="3848382448" seo="true" mt="1521752556000"/>
+    <file name="gmc_030413c.pdf" crc="379211931" seo="true" mt="1521752473000"/>
+    <file name="gmc_072311b.pdf" crc="283303328" seo="true" mt="1521751695000"/>
+    <file name="chevy_022707b.pdf" crc="276867865" seo="true" mt="1521808377000"/>
+    <file name="gmc_070314b.pdf" crc="122455749" seo="true" mt="1521751649000"/>
+    <file name="chevy_091809a.pdf" crc="4212689823" seo="true" mt="1521808319000"/>
+    <file name="chevy_121511a.pdf" crc="3813996725" seo="true" mt="1521808022000"/>
+    <file name="gmc_011112a.pdf" crc="3818821025" seo="true" mt="1521751523000"/>
+    <file name="gmc_111009b.pdf" crc="343317393" seo="true" mt="1521751963000"/>
+    <file name="bars_moving_v1.gif" crc="4199064772" seo="true" mt="1502909627000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="museutils.js" crc="340535759" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="whatinput.js" crc="86476730" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="museconfig.js" crc="310584261" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="jquery.watch.js" crc="51536988" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="html5shiv.js" crc="4241844378" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="require.js" crc="7928878" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="webpro.js" crc="4059564322" ref="team:index:emblems:fusion:crystaldome:vinyl:pres:contact:dec"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="team:index:emblems:fusion:crystaldome:vinyl:pres:dec"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="team:index:emblems:fusion:crystaldome:vinyl:pres:dec"/>
+    <file name="touchswipe.js" crc="4075097462" ref="team:index:emblems:fusion:crystaldome:vinyl:pres:dec"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u22370.php" crc="4231314747" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="403821889" ref="drop:team"/>
+    <file name="mdg_menu.jpg" crc="3776184117" ref="drop:team"/>
+    <file name="u8884-4.png" crc="2595836" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="2018_mdglogo.png" crc="172206639" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="mdg_menu_v17.png" crc="4157239774" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u261.png" crc="3864943469" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u261-r.png" crc="4082937190" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u275.png" crc="177540501" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u275-r.png" crc="3796153683" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u250.png" crc="3824865522" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u250-r.png" crc="3905701117" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u191.png" crc="4072662740" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u191-r.png" crc="506423323" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u200.png" crc="4136027609" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u200-r.png" crc="389826118" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u212.png" crc="393798046" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u212-r.png" crc="3802628405" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u205.png" crc="4026248545" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u205-r.png" crc="362013872" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u223.png" crc="261947404" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u223-r.png" crc="69923568" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u227.png" crc="391265633" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u227-r.png" crc="4019607485" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u22655.png" crc="3861138953" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u22655-r.png" crc="22964093" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u235.png" crc="3869444814" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u235-r.png" crc="373588814" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u268.png" crc="4236412682" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u268-r.png" crc="4151951386" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u245.png" crc="182688338" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="u245-r.png" crc="3786227528" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec"/>
+    <file name="instagram.png" crc="4002839836" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3772696737" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="3998350109" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="youtube.png" crc="4116545561" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="email.png" crc="142747570" seo="true" ref="drop:team:about:testimonials:index:emblems:fusion:crystaldome:vinyl:pres:dealer:contact:dec">
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="testimonials" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="drop" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dec" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="banners_team.jpg" crc="152525115" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="staff_fozer-u12808-fr.jpg" crc="266206338" ref="team"/>
+    <file name="u12809.png" crc="95079885" ref="team"/>
+    <file name="u12809-a.png" crc="95079885" ref="team"/>
+    <file name="staff_fozer1-u12808-a-fr.jpg" crc="4129580571" ref="team"/>
+    <file name="staff_swilley-u12810-fr.jpg" crc="340538525" ref="team"/>
+    <file name="u12811.png" crc="274703893" ref="team"/>
+    <file name="u12811-a.png" crc="274703893" ref="team"/>
+    <file name="staff_swilley1-u12810-a-fr.jpg" crc="367113502" ref="team"/>
+    <file name="staff_emazon-u12822-fr.jpg" crc="4030098739" ref="team"/>
+    <file name="u12823.png" crc="465315169" ref="team"/>
+    <file name="u12823-a.png" crc="465315169" ref="team"/>
+    <file name="staff_emazon1-u12822-a-fr.jpg" crc="3855906502" ref="team"/>
+    <file name="staff_bcooley-u12818-fr.jpg" crc="171424216" ref="team"/>
+    <file name="u12819.png" crc="294279691" ref="team"/>
+    <file name="u12819-a.png" crc="294279691" ref="team"/>
+    <file name="staff_bcooley1-u12818-a-fr.jpg" crc="4075986628" ref="team"/>
+    <file name="staff_aragusin-u12812-fr.jpg" crc="125702679" ref="team"/>
+    <file name="u12813.png" crc="265103257" ref="team"/>
+    <file name="u12813-a.png" crc="265103257" ref="team"/>
+    <file name="staff_aragusin1-u12812-a-fr.jpg" crc="3791341693" ref="team"/>
+    <file name="staff_pdecore-u12806-fr.jpg" crc="3917519215" ref="team"/>
+    <file name="u12807.png" crc="3908550734" ref="team"/>
+    <file name="u12807-a.png" crc="3908550734" ref="team"/>
+    <file name="staff_pdecore1-u12806-a-fr.jpg" crc="109289021" ref="team"/>
+    <file name="staff_mguerrero-u12820-fr.jpg" crc="4025788129" ref="team"/>
+    <file name="u12821.png" crc="446945660" ref="team"/>
+    <file name="u12821-a.png" crc="446945660" ref="team"/>
+    <file name="staff_mguerrero1-u12820-a-fr.jpg" crc="4275159731" ref="team"/>
+    <file name="staff_eozer-u12816-fr.jpg" crc="310072042" ref="team"/>
+    <file name="u12817.png" crc="390934654" ref="team"/>
+    <file name="u12817-a.png" crc="390934654" ref="team"/>
+    <file name="staff_eozer1-u12816-a-fr.jpg" crc="3834304546" ref="team"/>
+    <file name="staff2_fozer.jpg" crc="4024918293" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12738-4.png" crc="4157737799" ref="team"/>
+    <file name="phone.png" crc="3914412275" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="staff2_swilley.jpg" crc="3829665008" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12776-4.png" crc="260525130" ref="team"/>
+    <file name="email2.png" crc="4092671226" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="staff2_emazon.jpg" crc="452739007" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12742-4.png" crc="92445819" ref="team"/>
+    <file name="staff2_bcooley.jpg" crc="315559646" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12729-4.png" crc="328117920" ref="team"/>
+    <file name="staff2_aragusin.jpg" crc="313995284" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12778-4.png" crc="204791711" ref="team"/>
+    <file name="staff2_pdecore.jpg" crc="479466119" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12794-4.png" crc="12468521" ref="team"/>
+    <file name="staff2_mguerrero.jpg" crc="532222661" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12763-4.png" crc="149078145" ref="team"/>
+    <file name="staff2_eozer.jpg" crc="4009898741" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u12719-4.png" crc="3906219944" ref="team"/>
+    <file name="banners_aboutus.jpg" crc="4047698790" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u15205-6.png" crc="246077068" ref="about"/>
+    <file name="u15256-4.png" crc="3977421025" ref="about"/>
+    <file name="u15233.png" crc="353059600" ref="about"/>
+    <file name="u15233-r.png" crc="3962942516" ref="about"/>
+    <file name="u15334.png" crc="421539929" ref="about"/>
+    <file name="u15334-r.png" crc="410944837" ref="about"/>
+    <file name="u15340.png" crc="532580153" ref="about"/>
+    <file name="u15340-r.png" crc="212408160" ref="about"/>
+    <file name="concepttocreation.jpg" crc="3799480015" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u15254-4.png" crc="4192027548" ref="about"/>
+    <file name="u15255-4.png" crc="75979854" ref="about"/>
+    <file name="banners_contact.jpg" crc="120527204" ref="about:contact">
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ford_2.jpg" crc="273011512" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15780-4.png" crc="266179870" ref="testimonials"/>
+    <file name="u15781-6.png" crc="4254292187" ref="testimonials"/>
+    <file name="car_2.jpg" crc="334402906" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15786-4.png" crc="80029130" ref="testimonials"/>
+    <file name="u15787-4.png" crc="496574144" ref="testimonials"/>
+    <file name="u15689-4.png" crc="307461659" ref="testimonials"/>
+    <file name="u15688-4.png" crc="3929776784" ref="testimonials"/>
+    <file name="ford-u15685-fr.jpg" crc="61940671" ref="testimonials"/>
+    <file name="u15695-4.png" crc="3923340220" ref="testimonials"/>
+    <file name="u15696-4.png" crc="334959705" ref="testimonials"/>
+    <file name="mca.jpg" crc="4235477561" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15703-8.png" crc="4183189644" ref="testimonials"/>
+    <file name="u15702-4.png" crc="4053581860" ref="testimonials"/>
+    <file name="fabfours.jpg" crc="4266042617" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15710-4.png" crc="322502310" ref="testimonials"/>
+    <file name="u15709-4.png" crc="3819082871" ref="testimonials"/>
+    <file name="gm.jpg" crc="536751860" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15830-4.png" crc="4226891064" ref="testimonials"/>
+    <file name="u15831-4.png" crc="106069" ref="testimonials"/>
+    <file name="u15838-4.png" crc="290003127" ref="testimonials"/>
+    <file name="u15839-4.png" crc="213935736" ref="testimonials"/>
+    <file name="car.jpg" crc="3922268781" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="banners_testimonials.jpg" crc="61110599" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="photo_lights.jpg" crc="240140486" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="gm_2.jpg" crc="3934117262" ref="testimonials"/>
+    <file name="u15790-4.png" crc="468756338" ref="testimonials"/>
+    <file name="u15791-6.png" crc="405061345" ref="testimonials"/>
+    <file name="tph.jpg" crc="479971515" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u15847-4.png" crc="112767771" ref="testimonials"/>
+    <file name="u15842-4.png" crc="258163704" ref="testimonials"/>
+    <file name="chevy.jpg" crc="503305242" ref="testimonials">
+      <caption webpage="testimonials" alt=""/>
+    </file>
+    <file name="u23497-4.png" crc="4116739368" ref="testimonials"/>
+    <file name="u23492-4.png" crc="189584130" ref="testimonials"/>
+    <file name="banners_index1.jpg" crc="502864093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners_indexinsta.jpg" crc="339512331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners_index2.jpg" crc="3811043037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banners_index3.jpg" crc="77001919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow2-u15926-3-fr.png" crc="3919526035" ref="index"/>
+    <file name="arrow1-u15925-3-fr.png" crc="335513439" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:emblems:fusion:crystaldome:vinyl:pres:dec"/>
+    <file name="photo_2018ford-u16981-fr.png" crc="238468053" ref="index"/>
+    <file name="u16570-4.png" crc="3847629110" ref="index"/>
+    <file name="u16607-4.png" crc="3934470016" ref="index"/>
+    <file name="u16598-4.png" crc="3786797818" ref="index"/>
+    <file name="u16602-4.png" crc="265555964" ref="index"/>
+    <file name="u16610-4.png" crc="4268243295" ref="index"/>
+    <file name="u16595-4.png" crc="298448505" ref="index"/>
+    <file name="u16604-4.png" crc="251038003" ref="index"/>
+    <file name="theleader.png" crc="335955983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16571-4.png" crc="4008818277" ref="index"/>
+    <file name="clientlogos_1.png" crc="438838608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16912-4.png" crc="199754441" ref="index"/>
+    <file name="u16922-4.png" crc="330787570" ref="index"/>
+    <file name="bars_moving_v1.gif" crc="4199064772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16911-4.png" crc="4170601601" ref="index"/>
+    <file name="u16913-4.png" crc="325840903" ref="index"/>
+    <file name="card_insta2.jpg" crc="299535520" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="card_insta.jpg" crc="3847117645" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured_asi.jpg" crc="4237599273" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16656.png" crc="389155630" ref="index"/>
+    <file name="u16656-r.png" crc="4148105091" ref="index"/>
+    <file name="u16656-a.png" crc="4148105091" ref="index"/>
+    <file name="client_asi.png" crc="424403469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_asi2.png" crc="4217922688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="featured_puremi.jpg" crc="3934415530" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16663.png" crc="294638400" ref="index"/>
+    <file name="u16663-r.png" crc="434528987" ref="index"/>
+    <file name="u16663-a.png" crc="434528987" ref="index"/>
+    <file name="client_puremi-crop-u16660.png" crc="315712498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16667.png" crc="210140934" ref="index"/>
+    <file name="u16667-r.png" crc="465073435" ref="index"/>
+    <file name="side_insta1.jpg" crc="4259015655" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client_insta.png" crc="459026199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16625-13.png" crc="434381713" ref="index"/>
+    <file name="side_asi.jpg" crc="232412155" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="side_puremi.jpg" crc="4178574708" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16618-4.png" crc="195860284" ref="index"/>
+    <file name="u23307_states.png" crc="4072753622" ref="index"/>
+    <file name="u23307_states-r.png" crc="498402433" ref="index"/>
+    <file name="u16569_states.png" crc="4189061875" ref="index"/>
+    <file name="u16569_states-r.png" crc="195584945" ref="index"/>
+    <file name="banners_productsemblems.jpg" crc="453703885" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="u19000-4.png" crc="490337682" ref="emblems"/>
+    <file name="gdisplay_dallascowboys.jpg" crc="115140890" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_shelbysupersnake.jpg" crc="22059188" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_torontomapleleafs.jpg" crc="3786047428" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_stlouiscards.jpg" crc="4074771812" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_tuscanyblackops.jpg" crc="273761898" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_rrk2.jpg" crc="431268582" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_spartan.jpg" crc="304306453" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="gdisplay_gfx.jpg" crc="40065808" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_dallascowboys.jpg" crc="151336530" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_shelbysupersnake.jpg" crc="3890777386" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_torontomapleleafs.jpg" crc="3776451245" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_stlouiscards.jpg" crc="48372683" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_tuscanyblackops.jpg" crc="4292284037" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_rrk2.jpg" crc="3929271599" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_spartan.jpg" crc="261757734" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="thumbs_gfx.jpg" crc="3924214678" seo="true" ref="emblems">
+      <caption webpage="emblems" alt=""/>
+    </file>
+    <file name="carrot.png" crc="3865260632" seo="true" ref="emblems:fusion:crystaldome:vinyl:pres:dealer:dec">
+      <caption webpage="dec" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="fusion" alt=""/>
+      <caption webpage="dealer" alt=""/>
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="vinyl" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="emblems" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="u18759-4.png" crc="91860301" ref="emblems"/>
+    <file name="u18765-4.png" crc="4294105742" ref="emblems"/>
+    <file name="u18760-4.png" crc="435243335" ref="emblems"/>
+    <file name="u18761-4.png" crc="114611060" ref="emblems"/>
+    <file name="banners_productsfusion.jpg" crc="4263370832" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="u19501-4.png" crc="6312955" ref="fusion"/>
+    <file name="gdisplay_baja.jpg" crc="3841031993" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_patriotic.jpg" crc="501730720" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_jb.jpg" crc="3956658059" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_cca.jpg" crc="406853140" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_panam.jpg" crc="4013490668" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_sportsman.jpg" crc="526229295" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_honorvalor.jpg" crc="4236797336" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="gdisplay_puremichigan.jpg" crc="4166167751" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_baja.jpg" crc="238331250" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_patriotic.jpg" crc="301985299" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_jb.jpg" crc="3892741827" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_cca.jpg" crc="529506810" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_panam.jpg" crc="410441750" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_sportsman.jpg" crc="4218479522" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_honorvalor.jpg" crc="218036668" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="thumbs_puremichigan.jpg" crc="3990609986" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="u19406-4.png" crc="390397975" ref="fusion"/>
+    <file name="fusion_bezeloptions.jpg" crc="301182931" seo="true" ref="fusion">
+      <caption webpage="fusion" alt=""/>
+    </file>
+    <file name="banners_productscrystaldomes.jpg" crc="522182433" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="u20137-4.png" crc="3984969907" ref="crystaldome"/>
+    <file name="display_grizzly.jpg" crc="4108090115" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_omnistar.jpg" crc="4210420806" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_motorcity.jpg" crc="3972034417" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_conceptone.jpg" crc="353853807" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_gpc.jpg" crc="4174856801" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_rodeo.jpg" crc="437433839" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_davis.jpg" crc="4025502230" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="display_slx.jpg" crc="516781220" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_grizzly.jpg" crc="4142667934" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_omnistar.jpg" crc="4167726870" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_motorcity.jpg" crc="177573665" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_conceptone.jpg" crc="246881875" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_gpc.jpg" crc="4117510375" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_rodeo.jpg" crc="187355357" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_davis.jpg" crc="122386140" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="thumbs_slx.jpg" crc="4128842210" seo="true" ref="crystaldome">
+      <caption webpage="crystaldome" alt=""/>
+    </file>
+    <file name="u20061-4.png" crc="3781333680" ref="crystaldome"/>
+    <file name="banners_productsvinyl.jpg" crc="399696187" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="u20350-4.png" crc="474166188" ref="vinyl"/>
+    <file name="display_se.jpg" crc="4228958830" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_spartan.jpg" crc="439982868" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_peterrose.jpg" crc="426788691" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_powertech.jpg" crc="4158992997" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_xspx.jpg" crc="3866670812" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_tml.jpg" crc="170722960" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_z85.jpg" crc="128508693" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="display_gh.jpg" crc="3829192270" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_se.jpg" crc="286360752" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_spartan2.jpg" crc="4126504164" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_peterose.jpg" crc="3918819321" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_powertech.jpg" crc="50740735" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_xspx.jpg" crc="529818352" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_tml.jpg" crc="4123685463" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_z85.jpg" crc="4021478722" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="thumbs_gh.jpg" crc="347313116" seo="true" ref="vinyl">
+      <caption webpage="vinyl" alt=""/>
+    </file>
+    <file name="u20483-4.png" crc="499166359" ref="vinyl"/>
+    <file name="banners_productspres.jpg" crc="4284709263" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="u20851-4.png" crc="402730237" ref="pres"/>
+    <file name="display_copo.jpg" crc="4210007468" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_lenco.jpg" crc="388652506" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_warriors.jpg" crc="417759791" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_leafguard.jpg" crc="375352818" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_gm427.jpg" crc="4157115261" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_honorvalor.jpg" crc="358751109" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_nm.jpg" crc="308062693" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="display_ghpres.jpg" crc="4066421551" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_copo.jpg" crc="3897734549" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_lenco.jpg" crc="118818937" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_warriors.jpg" crc="165094306" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_leafguard.jpg" crc="427485476" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_gm427.jpg" crc="235516996" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_honorvalor2.jpg" crc="3871241271" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_nm.jpg" crc="518899457" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="thumbs_ghpres.jpg" crc="4212427956" seo="true" ref="pres">
+      <caption webpage="pres" alt=""/>
+    </file>
+    <file name="u20773-4.png" crc="245299500" ref="pres"/>
+    <file name="banners_productsdealer.jpg" crc="231194871" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="u21209-4.png" crc="527935598" ref="dealer"/>
+    <file name="auto-u21284-fr.png" crc="3901403934" ref="dealer"/>
+    <file name="u21255-4.png" crc="4050746922" ref="dealer"/>
+    <file name="u21440-4.png" crc="208902758" ref="dealer"/>
+    <file name="chevy_022908c.jpg" crc="4205443679" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_072311a.jpg" crc="97235553" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_081215a.jpg" crc="18332589" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_121511a.jpg" crc="4192299035" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_061914e.jpg" crc="3881324573" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_091809a.jpg" crc="3984466465" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="chevy_022707b.jpg" crc="517096474" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="u21448-4.png" crc="393514182" ref="dealer"/>
+    <file name="gmc_011112a.jpg" crc="379969338" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="gmc_070314b.jpg" crc="128301958" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="gmc_072311b.jpg" crc="3916577702" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="gmc_111009b.jpg" crc="4120697480" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="gmc_030413c.jpg" crc="158824162" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="gmc_111110a.jpg" crc="3855768149" seo="true" ref="dealer">
+      <caption webpage="dealer" alt=""/>
+    </file>
+    <file name="u22359-9.png" crc="101066405" ref="contact"/>
+    <file name="u22360-7.png" crc="3787281926" ref="contact"/>
+    <file name="u22361-7.png" crc="3925279760" ref="contact"/>
+    <file name="u22362-4.png" crc="4277355880" ref="contact"/>
+    <file name="u22363-4.png" crc="137824206" ref="contact"/>
+    <file name="photo_shelby2-u22617-fr.png" crc="4033286759" ref="contact"/>
+    <file name="u22366-4.png" crc="3980689766" ref="contact"/>
+    <file name="u22369-4.png" crc="52512057" ref="contact"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="banners_productsdec.jpg" crc="3853814172" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="u22777-4.png" crc="176800191" ref="dec"/>
+    <file name="display_gracohs.jpg" crc="3974070243" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_americanpinball.jpg" crc="326529854" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_sleeveseal.jpg" crc="176983779" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_gracoll.jpg" crc="509577050" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_motivo.jpg" crc="257685713" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_marykay.jpg" crc="4197354032" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_capitbulldog.jpg" crc="3970879395" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="display_aquacal.jpg" crc="4142128626" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_gracohs.jpg" crc="4036853010" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_americanpinball.jpg" crc="130819265" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_sleeveseal.jpg" crc="4208033003" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_gracoll.jpg" crc="4275229038" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_motivo.jpg" crc="13126413" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_marykay.jpg" crc="3976722274" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_capitbulldog.jpg" crc="237197274" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="thumbs_aquacal.jpg" crc="3943714298" seo="true" ref="dec">
+      <caption webpage="dec" alt=""/>
+    </file>
+    <file name="u22779-4.png" crc="269931537" ref="dec"/>
+    <file name="u23520_states.png" crc="4072753622" ref="index"/>
+    <file name="u23520_states-r.png" crc="498402433" ref="index"/>
+    <file name="u16638-10.png" crc="3804557894" ref="index"/>
+  </folder>
+  <file name="drop.html" crc="48662537" seo="true" mt="1545410462699" redirect="true"/>
+  <file name="team.html" crc="3818894865" seo="true" mt="1545412315236" redirect="true"/>
+  <file name="about.html" crc="4186632804" seo="true" mt="1545410936696" redirect="true"/>
+  <file name="testimonials.html" crc="4074476505" seo="true" mt="1545410462699" redirect="true"/>
+  <file name="index.html" crc="3818187578" seo="true" mt="1545410603683" redirect="true"/>
+  <file name="emblems.html" crc="4100982254" seo="true" mt="1545412403042" redirect="true"/>
+  <file name="fusion.html" crc="465727617" seo="true" mt="1545412472972" redirect="true"/>
+  <file name="crystaldome.html" crc="3909706003" seo="true" mt="1545412509918" redirect="true"/>
+  <file name="vinyl.html" crc="4120111383" seo="true" mt="1545412548150" redirect="true"/>
+  <file name="pres.html" crc="175007238" seo="true" mt="1545412579464" redirect="true"/>
+  <file name="dealer.html" crc="3907978242" seo="true" mt="1545412683045" redirect="true"/>
+  <file name="contact.html" crc="3966457961" seo="true" mt="1545412702812" redirect="true"/>
+  <file name="dec.html" crc="3767205654" seo="true" mt="1545412618792" redirect="true"/>
+</manifest>
